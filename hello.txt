@@ -3,3 +3,4 @@ Hello Git Demo
 2222----master test
 3333 hot-fix test
 
+remote fix bug
